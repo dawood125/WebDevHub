@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&family=Manrope:wght@200;300;400;500;600;700;800&family=Nanum+Gothic:wght@400;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Rammetto+One&family=Roboto+Mono:wght@100;200;300;400;500;600;700&display=swap');
+* {
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+}
+
+.hero {
+    border-radius: 50px;
+    background: linear-gradient(to bottom, #D9D1F0 44%, transparent 40%);
+}
+
+.navbar-brand {
+    padding: 5px 50px;
+    border-radius: 20px;
+    background: #622A65;
+    color: #fff !important;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.nav-item {
+    padding: 1px 27px;
+    border-radius: 50px;
+    background: #622A65;
+
+}
+
+.nav-item .nav-link {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.hero-section p{
+    color: #622A65;
+    font-family: League Spartan;
+    font-size: 49px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    /* 104.167% */
+}
+.hero-section .para{
+    color: #000;
+font-family: League Spartan;
+font-size: 23px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px; 
+border-left: 3px solid black !important;
+padding-left: 15px;
+}
+bottom-images img{
+    padding: 50px 1px 0px 0px;
+}
+.hero-section #para-2{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: center;
+    color: #000;
+}
+.hero-section #para-3{
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: center;
+    color: #622A65;
+
+}
+.form-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    border: 3px solid #9747FF;
+    width: 520px;
+}
+
+
+.form-image {
+    width: 100px; /* Adjust as needed */
+    margin: 0 auto; /* Center the image */
+    display: block; /* Ensure it's a block element for centering */
+}
+
+.input-fields {
+    margin-top: 20px;
+}
+
+.input-field {
+    width: 339px;
+    height: 55px;
+    margin-bottom: 20px;
+    margin-left: 90px;
+    padding: 10px;
+    border: 1px solid #B4B4B4;
+    border-radius: 10px;
+}
+
+.contact-button {
+    width: 470px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: #622A65;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-family: "League Spartan";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 16.56px;
+    text-align: center;
+}
+.hero-section h5 {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: left;
+    margin-left: 92px;
+}
+
+.hero-section #img1 {
+    padding-left: 97px;
+}
+.last-image-container {
+    position: absolute;
+    right: 28px;
+    top: 67%;
+    transform: translateY(-50%);
+    margin-right: -20px;
+}
+.para-4{
+    font-family: League Spartan !important;
+font-size: 20px !important;
+font-weight: 400 !important;
+line-height: 18.4px !important;
+color: #000 !important;
+padding: 10px 0px !important;
+}
+.btn1{
+font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+text-align: center;
+padding: 10px 50px;
+border-radius: 15px;
+background: none;
+border: 1px solid #868686;
+}
+.line-2{
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 600;
+line-height: 40px;
+text-align: left;
+
+}
